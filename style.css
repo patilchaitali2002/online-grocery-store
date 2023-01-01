@@ -1,0 +1,60 @@
+.bg{
+    background-color: lightgreen;
+}
+.abc:hover{
+    color: red;
+}
+.logo{
+    width: 4%;
+    height: 2%;
+}
+.welcome{
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.welcome_msg1{
+    color: darkgoldenrod;
+}
+.welcome_msg2{
+    color: grey;
+}
+.marquee{
+    color: darkgreen;
+}
+.image{
+    margin-left: 45%;
+    margin-top: 3%;
+    height: 10%;
+    width: 52%;
+    
+}
+.aboutus{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.contactbg{
+    background-color: rgb(186, 110, 148);
+}
+.contactdiv{
+    background-color: lightcoral;
+    width: 40%;
+    height: 30%;
+    margin-left: 30%;
+
+}
+.contactus{
+    margin-left: 45%;
+    margin-top: 3%;
+}
+.contactdivcontent{
+    padding-left: 20%;
+}
+.img1{
+    width: 300px;
+    height: 300px;
+    
+}
+
+
+
